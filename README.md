@@ -9,3 +9,8 @@ Now you can download any movie subtitle from the commandline terminal without op
     
     NOTE: If saving location is not provided, the script defaults to its directory.
 
+
+If you want to download movie torrents or want to just browse a movie, see this repository;
+
+
+https://github.com/hmnhGeek/YTS-Torrent-Downloader-and-Movie-Browser-
